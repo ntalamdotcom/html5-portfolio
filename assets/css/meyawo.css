@@ -12237,3 +12237,7 @@ pre .code {
 .section-lg {
   padding: 100px 0 !important;
 }
+
+h6.section-title.mb-6 {
+  margin-bottom: 0px !important;
+}
