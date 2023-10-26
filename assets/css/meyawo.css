@@ -13100,3 +13100,23 @@ h6.section-title.mb-6 {
 @media (min-width:990) and (max-width: 1200px) {
   .container .social-links {}
 }
+
+/* Enable smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Some styling to make sections distinct */
+/* div {
+  height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
+} */
+
+#about {
+  /* background-color: lightgray; */
+}
+
+#contact {
+  /* background-color: lightblue; */
+}
